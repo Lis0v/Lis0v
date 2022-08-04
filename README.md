@@ -1,1 +1,1 @@
-# [page](https://lis0v.github.io "My Page")
+# [My Page](https://lis0v.github.io)
